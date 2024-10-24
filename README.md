@@ -24,7 +24,6 @@ pip install "git+https://github.com/facebookresearch/pytorch3d.git"
 pip install tensorflow-gpu==2.8.0
 pip install --upgrade "protobuf<=3.20.1"
 ```
-Installation Common Questions FAQ[FAQ](/assets/faq.md)  
 
 ## 2. Quick Start
 By default, the ernerf model is used, and WebRTC is used to stream to SRS. 
